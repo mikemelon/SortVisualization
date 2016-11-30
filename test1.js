@@ -80,4 +80,4 @@ var draw = function() {
     }
 }
 
-setInterval(draw,1000);
+setInterval(draw,200);
