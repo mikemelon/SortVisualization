@@ -3,4 +3,4 @@
 
 主要用于教学演示，使用了d3.js实现绘图。
 
-![afd](http://wea.ca.com)
+![演示](https://github.com/mikemelon/SortVisualization/blob/master/screenshots/demo.2s.gif)
